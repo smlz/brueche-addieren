@@ -1,4 +1,4 @@
-# bruchrechnen
+# Brüche addieren
 
 ## Project setup
 ```
